@@ -5,6 +5,7 @@
 - 📫 How to reach me Write me a message over this 4 Links that I shared.
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I am sadly lonely.
+- https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white
 
 <!---
 Sgtjohnmaster/Sgtjohnmaster is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
