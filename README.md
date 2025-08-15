@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="[https://user-images.githubusercontent.com/your-banner-image-link-here.png](https://devimages-cdn.apple.com/wwdc-services/articles/images/3D5F5DD3-14F7-4384-94C0-798D15EE7CD7/2048.jpeg)" alt="Colorful Tech Banner" width="734" height="215"/>
+  <img src="../images/logo.png" alt="Banner" width="734" height="215"/>
 </p>
 
 <h1 align="center">Hi there 👋, I'm Sgtjohnmaster!</h1>
