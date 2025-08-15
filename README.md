@@ -1,6 +1,7 @@
 <!-- Banner -->
 <p align="center">
-  <img src="../images/logo.png" alt="Banner" width="734" height="215"/>
+  <img src="![Uploading ChatGPT Image Aug 15, 2025, 01_59_05 PM.png…]()
+" alt="Banner" width="734" height="215"/>
 </p>
 
 <h1 align="center">Hi there 👋, I'm Sgtjohnmaster!</h1>
